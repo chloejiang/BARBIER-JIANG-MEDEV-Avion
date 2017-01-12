@@ -4,7 +4,7 @@
 
 using namespace std;
 
-int afficherAvion(vector<Avion*> escadron)
+int afficherAvion(vector<Avion*> escadron) 
 {
 	/* OBJECTS CREATION */
 

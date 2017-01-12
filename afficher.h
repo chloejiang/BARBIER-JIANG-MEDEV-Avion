@@ -3,7 +3,7 @@
 #include <osg/Material>
 #include <osg/StateSet>
 #include <osg/PositionAttitudeTransform>
-#include <osg/Geometry>
+#include <osg/Geometry> 
 #include <osg/Camera>
 #include <osgDB/ReadFile>
 #include <vector>

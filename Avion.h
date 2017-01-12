@@ -4,7 +4,7 @@
 
 #define M_PI 3.1415
 
-class Avion{
+class Avion{ 
 
 protected:
 	osg::Vec3f position;

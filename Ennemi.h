@@ -3,7 +3,7 @@
 #include "Avion.h"
 
 class Ennemi : public Avion{
-
+ 
 public:
 	Ennemi();
 	Ennemi(osg::Vec3f pos, osg::Vec3f dir, int num);

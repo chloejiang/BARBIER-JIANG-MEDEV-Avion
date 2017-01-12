@@ -1,7 +1,7 @@
 #include "Joueur.h"
 #include<cmath>
 #include<osg/vec3f>
-#include <vector>
+#include <vector> 
 #include <cstdlib>
 #include <iostream>
 
